@@ -1,2 +1,2 @@
 # QuantumComputing
-Notes and exercise from the Quantum Computing class given by prof. Hauke, 2022
+Notes and exercises from the Quantum Computing course given by prof. Hauke, 2022
