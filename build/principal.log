@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.4)  4 MAR 2022 12:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.4)  11 MAR 2022 22:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -900,8 +900,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1 \chapter
-            {From classical to quantum} [1
+l.2 \chapter
+            {Introduction: from classical to quantum} [1
 
 ]
 Chapter 1.
@@ -919,24 +919,28 @@ Package rerunfilecheck Info: File `principal.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
  ) 
 Here is how much of TeX's memory you used:
- 17160 strings out of 482820
- 299154 string characters out of 5957805
- 607736 words of memory out of 5000000
- 32128 multiletter control sequences out of 15000+600000
- 548748 words of font info for 72 fonts, out of 8000000 for 9000
+ 17173 strings out of 482820
+ 299316 string characters out of 5957805
+ 607743 words of memory out of 5000000
+ 32135 multiletter control sequences out of 15000+600000
+ 551402 words of font info for 76 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  44i,7n,52p,390b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600
-pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.60
-0pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.6
-00pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.
-600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200
-.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx248
-8.600pk>
-Output written on build/principal.pdf (3 pages, 29104 bytes).
+ </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600
+pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
+0pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.6
+00pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.
+600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000
+.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx100
+0.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm09
+00.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
+200.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
+2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on build/principal.pdf (3 pages, 65236 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 241 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
