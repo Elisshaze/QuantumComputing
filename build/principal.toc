@@ -1,5 +1,7 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Introduction: from classical to quantum}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Classical computing}{2}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Bits and logical gates}{2}{subsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1.1}Universality and Turing machine}{3}{subsubsection.1.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.0.1}Universality and Turing machine}{3}{subsubsection.1.1.0.1}%
+\contentsline {section}{\numberline {1.2}Quantum computing}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Qbits}{4}{subsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.1.1}Qbit states}{4}{subsubsection.1.2.1.1}%

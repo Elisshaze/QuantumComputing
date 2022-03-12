@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.4)  12 MAR 2022 23:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.4)  12 MAR 2022 23:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**principal.tex
-(./principal.tex
+**prefix.tex
+(./prefix.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-02-25> (./prefix.tex
+L3 programming layer <2020-02-25>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
@@ -756,265 +756,19 @@ LaTeX3 Warning: Argument delimiter '\Bigg ' for the command '\fbraces' should
 LaTeX3 Warning: Argument delimiter '\ket ' for the command '\bra' should be a
 (LaTeX3)        single character.
 
-)) (build/principal.aux)
-\openout1 = `principal.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(81.94394pt, 433.62pt, 81.94394pt)
-* v-part:(T,H,B)=(106.75473pt, 578.15999pt, 160.13213pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=433.62pt
-* \textheight=578.15999pt
-* \oddsidemargin=9.67395pt
-* \evensidemargin=9.67395pt
-* \topmargin=4.41725pt
-* \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=69.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-\c@lstlisting=\count333
-\AtBeginShipoutBox=\box118
-Package hyperref Info: Link coloring OFF on input line 11.
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count334
-)
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
-
-(build/principal.out) (build/principal.out)
-\@outlinefile=\write3
-\openout3 = `principal.out'.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
--English.dict
-Dictionary: translator-basic-dictionary, Language: English 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
-File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
-)
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
-Package caption Info: wrapfig package is loaded.
-Package caption Info: End \AtBeginDocument code.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
-\scratchdimen=\dimen276
-\scratchbox=\box119
-\nofMPsegments=\count336
-\nofMParguments=\count337
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count338
-\MPscratchDim=\dimen277
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
-\everyMPtoPDFconversion=\toks38
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+! Emergency stop.
+<*> prefix.tex
+              
+*** (job aborted, no legal \end found)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-
-Package chemgreek Info: Activating mapping `default' on line 11.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (build/principal.toc)
-\tf@toc=\write4
-\openout4 = `principal.toc'.
-
- (./chapters/01.texpdfTeX warning (ext4): destination with the same identifier 
-(name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.2 \chapter
-            {Introduction: from classical to quantum} [1
-
-]
-Chapter 1.
-
-
-pdfTeX warning: pdflatex (file ./chapters/01/not.pdf): PDF inclusion: found PDF
- version <1.7>, but at most version <1.5> allowed
-<chapters/01/not.pdf, id=40, 185.73389pt x 67.2111pt>
-File: chapters/01/not.pdf Graphic file (type pdf)
-<use chapters/01/not.pdf>
-Package pdftex.def Info: chapters/01/not.pdf  used on input line 14.
-(pdftex.def)             Requested size: 151.76964pt x 54.92474pt.
-
-
-pdfTeX warning: pdflatex (file ./chapters/01/and.pdf): PDF inclusion: found PDF
- version <1.7>, but at most version <1.5> allowed
-<chapters/01/and.pdf, id=41, 189.8292pt x 103.3461pt>
-File: chapters/01/and.pdf Graphic file (type pdf)
-<use chapters/01/and.pdf>
-Package pdftex.def Info: chapters/01/and.pdf  used on input line 19.
-(pdftex.def)             Requested size: 151.76964pt x 82.62494pt.
-
-
-pdfTeX warning: pdflatex (file ./chapters/01/nand.pdf): PDF inclusion: found PD
-F version <1.7>, but at most version <1.5> allowed
-<chapters/01/nand.pdf, id=42, 189.8292pt x 103.3461pt>
-File: chapters/01/nand.pdf Graphic file (type pdf)
-<use chapters/01/nand.pdf>
-Package pdftex.def Info: chapters/01/nand.pdf  used on input line 24.
-(pdftex.def)             Requested size: 151.76964pt x 82.62494pt.
-[2
-
- <./chapters/01/not.pdf> <./chapters/01/and.pdf>]
-
-pdfTeX warning: pdflatex (file ./chapters/01/universal_not.pdf): PDF inclusion:
- found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/01/universal_not.pdf, id=73, 277.035pt x 54.2025pt>
-File: chapters/01/universal_not.pdf Graphic file (type pdf)
-<use chapters/01/universal_not.pdf>
-Package pdftex.def Info: chapters/01/universal_not.pdf  used on input line 33.
-(pdftex.def)             Requested size: 216.81pt x 42.41919pt.
-
-
-pdfTeX warning: pdflatex (file ./chapters/01/universal_and.pdf): PDF inclusion:
- found PDF version <1.7>, but at most version <1.5> allowed
-<chapters/01/universal_and.pdf, id=74, 319.1925pt x 90.3375pt>
-File: chapters/01/universal_and.pdf Graphic file (type pdf)
-<use chapters/01/universal_and.pdf>
-Package pdftex.def Info: chapters/01/universal_and.pdf  used on input line 37.
-(pdftex.def)             Requested size: 216.81pt x 61.36113pt.
-
-
-pdfTeX warning: pdflatex (file ./chapters/01/turing.pdf): PDF inclusion: found 
-PDF version <1.7>, but at most version <1.5> allowed
-<chapters/01/turing.pdf, id=77, 408.56638pt x 119.4864pt>
-File: chapters/01/turing.pdf Graphic file (type pdf)
-<use chapters/01/turing.pdf>
-Package pdftex.def Info: chapters/01/turing.pdf  used on input line 44.
-(pdftex.def)             Requested size: 216.81pt x 63.40588pt.
-
-Package hyperref Warning: Suppressing empty link on input line 48.
-
-[3 <./chapters/01/nand.pdf> <./chapters/01/universal_not.pdf> <./chapters/01/un
-iversal_and.pdf> <./chapters/01/turing.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 58--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
-
- []
-
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
- (build/principal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
-Package rerunfilecheck Info: File `principal.out' has not changed.
-(rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 17243 strings out of 482820
- 300738 string characters out of 5957805
- 612794 words of memory out of 5000000
- 32179 multiletter control sequences out of 15000+600000
- 554386 words of font info for 80 fonts, out of 8000000 for 9000
+ 15870 strings out of 482820
+ 278971 string characters out of 5957805
+ 592830 words of memory out of 5000000
+ 30937 multiletter control sequences out of 15000+600000
+ 533414 words of font info for 26 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 44i,12n,52p,663b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600
-pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.60
-0pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.6
-00pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.
-600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700
-.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm100
-0.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx14
-40.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2
-074.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm
-1000.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
-x1000.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
-rm0900.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm1200.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/
-ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on build/principal.pdf (5 pages, 230630 bytes).
-PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 179 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 41i,0n,50p,368b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

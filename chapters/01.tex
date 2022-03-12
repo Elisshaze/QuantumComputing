@@ -1,12 +1,10 @@
 \graphicspath{{chapters/01/}}
 \chapter{Introduction: from classical to quantum}
 \section{Classical computing}
-We'll start our discussion about quantum computing by first reviewing fundamental classical computers' notions.
-\subsection{Bits and logical gates}
 Classical computers are made by 
 \begin{itemize}
 	\item Elementary units: \textbf{bits}, that can take values $0,1$;
-	\item Ellementary operations carried out by \textbf{logical gates}.
+	\item Elementary operations carried out by \textbf{logical gates}.
 \end{itemize}
 Examples of the usage of these two elements are the
 \begin{itemize}
@@ -57,9 +55,26 @@ However, the very same definition of the turing machine proves the existance of 
     end}
 }\Else{\Return}
 \end{algorithm}
+Not only that, but also finite resources is another restriction. For example, factorizing prime number is extremely hard (as we'll see later, it is in fact NP) and for this this reason many cryptographic protocols are based on the difficulty of factoring large composite integers or a related problem—for example, the RSA problem. \\
+However, Shor's (quantum) algorithm can find the prime factors of an integer in polynomial time. Subsequently, a quantum computer with sufficient number of qbits (and the ability not to succumb any dechorence phenomena) could break RSA and other cryptographic schemes.\\ 
 
-	
-	
+\section{Quantum computing}
+As classical computers have bits as fundamental units, quantum ones have \textbf{quantum bits}, or \textbf{qbits} as the basic unit of quantum information. The quantum version of the classical bit is physically realized with a two-state device. 
+\subsection{Qbits}
+There are two possible outcomes for the measurement of a qubit—usually taken to have the value "0" and "1", like a bit or binary digit. However, whereas the state of a bit can only be either 0 or 1, the general state of a qubit according to quantum mechanics can be a coherent superposition of both. Moreover, whereas a measurement of a classical bit would not disturb its state, a measurement of a qubit would destroy its coherence and irrevocably disturb the superposition state. It is possible to fully encode one bit in one qubit\footnote{\href{https://en.wikipedia.org/wiki/Qubit}{Wikipedia/Qubit}}.\\
+\subsubsection{Qbit states}
+In quantum mechanics, the general quantum state of a qubit can be represented by a linear superposition of its two orthonormal basis states (or basis vectors). These vectors are usually denoted as
+\begin{equation}
+\ket{0} = \begin{bmatrix}
+           1\\
+           0
+           \end{bmatrix}
+\,\,\,
+\ket{1} = \begin{bmatrix}
+           0\\
+           1
+           \end{bmatrix}
+\end{equation}
 	
 	
 	
