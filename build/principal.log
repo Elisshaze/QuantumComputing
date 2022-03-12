@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.4)  11 MAR 2022 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.4)  12 MAR 2022 18:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -905,11 +905,69 @@ l.2 \chapter
 
 ]
 Chapter 1.
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
- [2
 
-]
+
+pdfTeX warning: pdflatex (file ./chapters/01/not.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<chapters/01/not.pdf, id=35, 185.73389pt x 67.2111pt>
+File: chapters/01/not.pdf Graphic file (type pdf)
+<use chapters/01/not.pdf>
+Package pdftex.def Info: chapters/01/not.pdf  used on input line 16.
+(pdftex.def)             Requested size: 151.76964pt x 54.92474pt.
+
+
+pdfTeX warning: pdflatex (file ./chapters/01/and.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<chapters/01/and.pdf, id=36, 189.8292pt x 103.3461pt>
+File: chapters/01/and.pdf Graphic file (type pdf)
+<use chapters/01/and.pdf>
+Package pdftex.def Info: chapters/01/and.pdf  used on input line 21.
+(pdftex.def)             Requested size: 151.76964pt x 82.62494pt.
+
+
+pdfTeX warning: pdflatex (file ./chapters/01/nand.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<chapters/01/nand.pdf, id=37, 189.8292pt x 103.3461pt>
+File: chapters/01/nand.pdf Graphic file (type pdf)
+<use chapters/01/nand.pdf>
+Package pdftex.def Info: chapters/01/nand.pdf  used on input line 26.
+(pdftex.def)             Requested size: 151.76964pt x 82.62494pt.
+[2
+
+ <./chapters/01/not.pdf> <./chapters/01/and.pdf>]
+
+pdfTeX warning: pdflatex (file ./chapters/01/universal_not.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/01/universal_not.pdf, id=69, 277.035pt x 54.2025pt>
+File: chapters/01/universal_not.pdf Graphic file (type pdf)
+<use chapters/01/universal_not.pdf>
+Package pdftex.def Info: chapters/01/universal_not.pdf  used on input line 35.
+(pdftex.def)             Requested size: 216.81pt x 42.41919pt.
+
+
+pdfTeX warning: pdflatex (file ./chapters/01/universal_and.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/01/universal_and.pdf, id=70, 319.1925pt x 90.3375pt>
+File: chapters/01/universal_and.pdf Graphic file (type pdf)
+<use chapters/01/universal_and.pdf>
+Package pdftex.def Info: chapters/01/universal_and.pdf  used on input line 39.
+(pdftex.def)             Requested size: 216.81pt x 61.36113pt.
+
+
+pdfTeX warning: pdflatex (file ./chapters/01/turing.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<chapters/01/turing.pdf, id=73, 408.56638pt x 119.4864pt>
+File: chapters/01/turing.pdf Graphic file (type pdf)
+<use chapters/01/turing.pdf>
+Package pdftex.def Info: chapters/01/turing.pdf  used on input line 46.
+(pdftex.def)             Requested size: 216.81pt x 63.40588pt.
+
+Package hyperref Warning: Suppressing empty link on input line 50.
+
+[3 <./chapters/01/nand.pdf> <./chapters/01/universal_not.pdf> <./chapters/01/un
+iversal_and.pdf> <./chapters/01/turing.pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
+ [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
  (build/principal.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
@@ -919,28 +977,33 @@ Package rerunfilecheck Info: File `principal.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
  ) 
 Here is how much of TeX's memory you used:
- 17173 strings out of 482820
- 299316 string characters out of 5957805
- 607743 words of memory out of 5000000
- 32135 multiletter control sequences out of 15000+600000
- 551402 words of font info for 76 fonts, out of 8000000 for 9000
+ 17238 strings out of 482820
+ 300668 string characters out of 5957805
+ 610794 words of memory out of 5000000
+ 32178 multiletter control sequences out of 15000+600000
+ 554386 words of font info for 80 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 44i,7n,52p,390b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600
-pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
-0pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.6
-00pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.
-600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000
-.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx100
-0.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm09
-00.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
-200.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
-2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on build/principal.pdf (3 pages, 65236 bytes).
+ 44i,12n,52p,550b,820s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600
+pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.60
+0pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.6
+00pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.
+600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000
+.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx120
+0.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx14
+40.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2
+074.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm
+1000.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
+x1000.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
+rm0900.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm1200.600pk> </home/elisa/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b>
+Output written on build/principal.pdf (5 pages, 212170 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 416 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 55 words of extra memory for PDF output out of 10000 (max. 10000000)
 
